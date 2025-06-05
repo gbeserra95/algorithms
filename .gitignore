@@ -1,0 +1,16 @@
+# Ignora a pasta de configuração do VSCode
+.vscode/
+
+# Ignora os executáveis gerados (sem extensão)
+generate_numbers
+bubble_sort
+selection_sort
+merge_sort
+linear_search
+binary_search
+
+# Ignora o arquivo de dados gerado
+numbers.txt
+
+# (Opcional) Ignora qualquer executável genérico
+*.out
