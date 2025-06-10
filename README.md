@@ -319,7 +319,7 @@ user    0m0.027s
 sys     0m0.000s
 ```
 
-Podemos concluir que para os melhores cenários, o algoritmo de Bubble Sort foi mais eficiente, pois possui ordem linear (Ω(N)), seguido do Merge Sort (Θ(N log N)) e Selection Sort (Θ(N²).
+Podemos concluir que para os melhores cenários, o algoritmo de Bubble Sort foi mais eficiente, pois possui ordem linear (Ω(N)), seguido do Merge Sort (Ω(N log N)) e Selection Sort (Ω(N²).
 
 - Lista ordenada de 100_000 a 0 (pior caso)
 
