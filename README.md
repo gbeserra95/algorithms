@@ -39,7 +39,7 @@ As complexidades mais comuns dos algoritmos são as seguintes:
 - O(NLogN)
 - O(n²)
 
-A notação O é utilizada para definir a complexidade do pior cenário de um algoritmo. Por exemplo, o pior cenário de um algoritmo de ordenação ocorre quando a sua lista de entrada está completamente invertida, por exemplo: 100, 99, 98, ..., 0.
+A notação O é utilizada para definir a complexidade do pior cenário de um algoritmo. O pior cenário de um algoritmo de ordenação ocorre quando a sua lista de entrada está completamente invertida, por exemplo: 100, 99, 98, ..., 0.
 
 Já a notação Ω (ômega) é utilizada para definir a complexidade do algoritmo em seu melhor cenário. No caso de um algoritmo de ordenação, o melhor cenário seria quando a sua lista de entrada já está ordenada, por exemplo: 0, 1, 2, ..., 100. Nesse caso, o algoritmo levaria menos tempo (ou menos passos) para finalizar.
 
